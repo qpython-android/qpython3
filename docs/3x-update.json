@@ -1,0 +1,12 @@
+{
+    "app":{
+        "link":"https://www.qpython.org",
+        "ver":154,
+        "ver_plugin":"0",
+        "ver_desc":"Newest version you should upgrade",
+        "ver_name":"2.1.0"
+    },
+    "plugins":[
+    ]
+}
+
