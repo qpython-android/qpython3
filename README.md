@@ -10,5 +10,5 @@ The source code is being sorted out.
 
 Please tell us your phone's informatioin, android os information, QPython version, where did you install it and your detail question when asking.
 
-- [Ask in stackoverflow](https://stackoverflow.com/questions/tagged/qpython)
+- [Ask in stackoverflow](https://stackoverflow.com/questions/tagged/qpython3)
 - [在segmentfault提问 - Chinese](https://segmentfault.com/t/qpython)
