@@ -8,7 +8,9 @@ The source code is being sorted out.
 
 ## How to ask QPython3 related questions
 
-Please tell us your phone's informatioin, android os information, QPython version, where did you install it and your detail question when asking.
+In order to benefit those who have the same issue with QPython, we suggest that you should ask the issues which is related with QPython within public techical communities.
+
+Please tell us your phone's informatioin, android os information, QPython version, where did you install it and the detailed stituation you have encountered.
 
 - [Ask in stackoverflow](https://stackoverflow.com/questions/tagged/qpython3)
 - [在segmentfault提问 - Chinese](https://segmentfault.com/t/qpython)
