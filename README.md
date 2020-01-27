@@ -6,7 +6,7 @@ QPython3 aims to to provide limited features Python3 scripting engine for the mo
 The source code is being sorted out. 
 
 
-## How to ask QPython3 related questions
+## How to ask QPython related questions
 
 In order to benefit those guys who have the same issue with QPython, we suggest that you should ask the issue which is related with QPython within public techical communities.
 
@@ -14,3 +14,4 @@ Please tell us your phone's informatioin, android os information, QPython versio
 
 - [Ask in stackoverflow](https://stackoverflow.com/questions/tagged/qpython3)
 - [在segmentfault提问 - Chinese](https://segmentfault.com/t/qpython)
+- [Discuss QPython Programming in QPython Group](https://www.facebook.com/groups/qpython/)
