@@ -1,23 +1,12 @@
 # About
+QPython has QPython OS, QPython OL, QPython 3S, QPython 3L.
+
 <p align="center"><a href="https://play.google.com/store/apps/details?id=org.qpython.qpy3" target="_blank"><img src="https://lh3.googleusercontent.com/i3mDiwxhA3hz0idCn8vMWmn30QvyCZlOEna5VQqbInKIcPyhyl4ZUGtvXy_Ex6wauJYS=s360-rw"></a></p>
 
-QPython3 aims to to provide limited features Python3 scripting engine for the most Android systems which from 4.3+ to 9.0
+QPython 3x aims to to provide limited features Python3 scripting engine for the most Android systems which from 4.3+ to 9.0
 
 The source code is being sorted out. 
 
 
-## How to ask QPython related questions
-
-In order to benefit those guys who have the same issue with QPython, we suggest that you should ask the issue which is related with QPython within public techical communities.
-
-Please tell us your phone's informatioin, android os information, QPython version, where did you install it and the detailed stituation you have encountered.
-
-### English QPythonista Community
-
-- [Ask in stackoverflow](https://stackoverflow.com/questions/tagged/qpython3)
-- [Discuss QPython Programming in QPython Group](https://www.facebook.com/groups/qpython/)
-
-### Chinese QPythonista Community
-
-- [在segmentfault提问 - Chinese](https://segmentfault.com/t/qpython)
-- [在贴吧讨论 - Chinese](https://tieba.baidu.com/f?ie=utf-8&kw=qpython)
+## More information 
+Please visit [QPython Project Readme](https://github.com/qpython-android/qpython/blob/master/README.md)
